@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.djsoftware.monthlydish",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "monolith",
+    "baseName": "monthlydish",
+    "packageName": "com.djsoftware.monthlydish",
+    "packageFolder": "com/djsoftware/monthlydish",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjRkMTdlZTI4ZDgxMjYwMTdjZmY3ZGVlOTZlNWI2MDdjN2E0ZjNhZGE4N2Y2OTQ0M2Q5ODY5ZTEzMTJiYWVjNDI0YmUyODJiZjZjZDA0MGU3YjMxZDIxMTNiNzc4NWFhY2E0OTRmMzRjMzc3ZTM1MjE2MTk4MDk3NTllMzc1YzI=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br", "en"]
+  }
+}
